@@ -1,0 +1,7 @@
+# Neural-Network-learning
+主要是自己学习神经网络的一些代码
+涉及到利用tensorflow构建简单的感知机
+LSTM学习
+Word2vec学习
+seq2seq学习
+利用keras搭建神经网络的学习
